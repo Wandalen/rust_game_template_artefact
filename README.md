@@ -1,1 +1,1 @@
-# rust_game_template_build
+# rust_game_template_artefact
